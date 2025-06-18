@@ -1,4 +1,4 @@
-[![Open in Jupyter](https://img.shields.io/badge/Open%20in-Jupyter-orange?logo=jupyter)](https://mybinder.org/v2/gh/USERNAME/REPO_NAME/HEAD?labpath=notebooks/code.ipynb)
+[![Open in Jupyter](https://img.shields.io/badge/Open%20in-Jupyter-orange?logo=jupyter)](notebooks/code.ipynb)
 &nbsp;
 [![Open in PowerPoint](https://img.shields.io/badge/Open%20in-PowerPoint-red?logo=microsoftpowerpoint)](slides/Presentation%20Slides.pptx)
 
