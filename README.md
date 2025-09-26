@@ -16,6 +16,7 @@ This project analyzes over 3 million liquor transactions in Iowa from 2012 to 20
 - The Iowa government could optimize excise taxes and inventory logistics.
 
 ## Tools & Technologies
+- SQL
 - Python (Pandas, Matplotlib, Seaborn)
 - Jupyter Notebooks
 - PowerPoint
@@ -34,4 +35,4 @@ This project analyzes over 3 million liquor transactions in Iowa from 2012 to 20
 - [Official dataset link](https://istm-4212.s3.us-east-1.amazonaws.com/Iowa_Liquor_Sales_20250416.zip)
 
 ## Contributors
-- Beibarys Nyussupov, Jonathan Beck, Henrique Cassol, Matthew Wolf
+- Jonathan Beck, Henrique Cassol, Matthew Wolf
